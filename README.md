@@ -1,4 +1,4 @@
-## <Hello, world/> 🌎  Paz & Sucesso
+## <Hello, world/> 🌎  Bem-vindo(a) ao perfil da Pedro 👩‍💻💜
 
 <div>
   <a href="https://github.com/Martinelli15">
@@ -14,12 +14,12 @@
  
  <br>
  
-  ## Estudante
+  ## Desenvolvedor Front-End 💜
  
 <div> 
   
   <a href = "mailto:pedromd2974@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/amanda-gagliero-426749207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 
